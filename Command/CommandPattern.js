@@ -1,4 +1,4 @@
-class Manager {
+  class Manager {
     constructor() {
         this.value = 0;
         this.history = [];
